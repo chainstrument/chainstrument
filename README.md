@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 
-#GH-LIGHT-MODE-ONLY
-#GH-LIGHT-MODE-ONLY
+
+[
+![Fancy logo](./dark.png#gh-dark-mode-only)
+![Fancy logo](./light.png#gh-light-mode-only)
